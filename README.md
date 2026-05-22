@@ -1,6 +1,23 @@
-# GPT Image 2 API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/gpt-image-2">
+    <h3 align="center">GPT Image 2 API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect GPT Image 2 fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/gpt-image-2.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/gpt-image-2"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/gpt-image-2-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/gpt-image-2)](https://skills.sh/runapi-ai/gpt-image-2)
+
+</div>
+<br/>
 
 Generate and edit images with GPT Image 2 text-to-image and image-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate GPT Image 2 through RunAPI.
 
