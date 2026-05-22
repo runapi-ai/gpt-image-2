@@ -1,5 +1,7 @@
 # GPT Image 2 API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/gpt-image-2)](https://skills.sh/runapi-ai/gpt-image-2)
+
 Generate and edit images with GPT Image 2 text-to-image and image-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate GPT Image 2 through RunAPI.
 
 The canonical agent file is `skills/gpt-image-2/SKILL.md`.
